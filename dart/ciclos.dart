@@ -12,6 +12,7 @@ void main() {
 
   //forma sensilla
 
+  // ignore: unused_local_variable
   for ( var carro in carro); {
   print ('el valor de carro es $carro');
   }
