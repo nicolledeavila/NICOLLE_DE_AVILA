@@ -30,3 +30,7 @@ puts "total de dinero recaudado por los donantes de menos de 5000 es de: #{toma2
 puts "total de dinero recaudado por los donantes de mas de 5000 es de: #{toma}"
 puts "promedio de los que donaron mas de 5000 es de: #{promM}"
 puts "promedio de los que donaron menos de 5000 es de:#{promMn}"
+
+
+
+
